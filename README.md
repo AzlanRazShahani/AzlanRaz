@@ -1,91 +1,239 @@
-<h1 align="center">Hi 👋, I'm Azlan Raz</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Student • Web Developer • Python Learner • Linux Enthusiast
-</h3>
+# 👋 Hi, I'm Azlan Raz
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Student+Developer;HTML+%7C+CSS+%7C+Python;Linux+Enthusiast;Creative+Designer;AI+Prompting+Learner;Always+Learning+🚀"/>
+
+<p>
+Passionate about technology, web development, Linux, creative design, and building real-world projects.
+</p>
+
+<p>
+<a href="https://github.com/AzlanRazShahani">
+<img src="https://komarev.com/ghpvc/?username=AzlanRazShahani&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<img src="https://img.shields.io/github/followers/AzlanRazShahani?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/AzlanRazShahani?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Azlan Raz
+
+Role: Student
+
+Country: Pakistan 🇵🇰
+
+Currently Learning:
+  - HTML
+  - CSS
+  - Python
+  - Linux
+  - AI Prompting
+
+Creative Skills:
+  - Canva
+  - Logo Design
+  - Banner Design
+  - Flyer Design
+
+Goal:
+  Build useful projects and improve every day.
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-I am a passionate student with a strong interest in technology, web development, Python, Linux, and digital design. I enjoy building real-world projects, learning new technologies, and turning ideas into reality.
-</p>
 
----
-
-## 👨‍💻 About Me
-
-- 🌱 Currently learning **HTML, CSS, Python, Linux, and Web Development**
-- 💻 Building websites and personal projects
-- 🚀 Exploring open-source technologies
-- 📂 All of my projects: **https://github.com/AzlanRazShahani**
-- 🌐 Portfolio: **https://azlanraz.lovable.app/**
-- 📫 Reach me at **azlann873@gmail.com**
-- ⚡ Fun fact: **I love turning ideas into real projects and learning something new every day.**
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/azlan-raz-a8ab63413/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+<a href="https://github.com/AzlanRazShahani">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://www.youtube.com/@azlancoder2500" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-</a>
-</p>
-
----
-
-## 🛠 Languages and Tools
-
-<p align="left">
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<a href="https://www.linkedin.com/in/azlan-raz-a8ab63413/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+<a href="https://www.youtube.com/@azlancoder2500">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="55"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>
+<a href="mailto:azlann873@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-- 🌐 Portfolio Website
-- 💻 HTML & CSS Projects
-- 🐍 Python Projects
-- 🐧 Linux Practice
-- 🎨 UI & Web Design
-
----
+# 💻 Tech Stack
 
 <p align="center">
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+<img src="https://skillicons.dev/icons?i=html,css,python,linux,git,github,vscode"/>
+
 </p>
+
+---
+
+# 🎨 Creative Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Logo%20Design-1F2937?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Banner%20Design-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flyer%20Design-F97316?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Prompting-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌊 Ocean Yarn | Crochet business website |
+| 🌐 Portfolio | Personal portfolio website |
+| 💻 HTML Projects | Responsive web pages |
+| 🐍 Python Projects | Beginner Python applications |
+| 🐧 Linux Practice | Linux commands & learning |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AzlanRazShahani&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzlanRazShahani&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AzlanRazShahani&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AzlanRazShahani&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AzlanRazShahani&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💡 What I'm Learning
+
+- 🌐 HTML
+- 🎨 CSS
+- 🐍 Python
+- 🐧 Linux
+- 🤖 AI Prompt Engineering
+- 💻 Git & GitHub
+- 🚀 Web Development
+
+---
+
+# 🎯 Current Focus
+
+✔ Building practical projects
+
+✔ Improving programming skills
+
+✔ Learning modern web development
+
+✔ Exploring AI tools
+
+✔ Growing as a developer
+
+---
+
+# 🛠 Tools I Use
+
+- 💻 Visual Studio Code
+- 🐧 Linux
+- 🌐 GitHub
+- 🎨 Canva
+- 🤖 ChatGPT
+- 🔍 Google
+
+---
+
+# 💬 Quote
+
+> **"The best way to learn programming is to build something every day."**
+
+---
+
+# 🌍 Portfolio
+
+### 🌐 Website
+
+**https://azlanraz.lovable.app/**
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+**azlann873@gmail.com**
+
+💼 **LinkedIn**
+
+**https://www.linkedin.com/in/azlan-raz-a8ab63413/**
+
+📺 **YouTube**
+
+**https://www.youtube.com/@azlancoder2500**
+
+🐙 **GitHub**
+
+**https://github.com/AzlanRazShahani**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you enjoy my projects, consider ⭐ starring a repository and connecting with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=120&section=footer"/>
+
+</div>
